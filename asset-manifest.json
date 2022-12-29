@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dlabfront/static/css/main.66d72bb0.css",
+    "main.js": "/dlabfront/static/js/main.0ef30181.js",
+    "static/js/787.ce2916c2.chunk.js": "/dlabfront/static/js/787.ce2916c2.chunk.js",
+    "static/media/video.png": "/dlabfront/static/media/video.04b839bb4325fadf1d5f.png",
+    "static/media/built.png": "/dlabfront/static/media/built.93677c64196ecac76ab0.png",
+    "static/media/res3.png": "/dlabfront/static/media/res3.2b4b3941cd5fbe24e34a.png",
+    "static/media/ways2.png": "/dlabfront/static/media/ways2.21c55f52d448757b6a5d.png",
+    "static/media/ways3.png": "/dlabfront/static/media/ways3.3631858dc767763240af.png",
+    "static/media/ways1.png": "/dlabfront/static/media/ways1.dfe90b37f7efa4d3b1f7.png",
+    "static/media/res2.png": "/dlabfront/static/media/res2.da481f91d6f904bfd328.png",
+    "static/media/res1.png": "/dlabfront/static/media/res1.f05f60d7b1c4e54cb3a3.png",
+    "static/media/logo.svg": "/dlabfront/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dlabfront/index.html",
+    "main.66d72bb0.css.map": "/dlabfront/static/css/main.66d72bb0.css.map",
+    "main.0ef30181.js.map": "/dlabfront/static/js/main.0ef30181.js.map",
+    "787.ce2916c2.chunk.js.map": "/dlabfront/static/js/787.ce2916c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66d72bb0.css",
+    "static/js/main.0ef30181.js"
+  ]
+}
