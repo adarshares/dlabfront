@@ -1,0 +1,34 @@
+.bout {
+    width: 20px;
+    height:20px;
+    border-radius:50%;
+    background-color:#1355FF;
+    padding: 10% 10% 10% 10%;
+}
+.wout {
+    width:100%;
+    height:100%;
+    border-radius:50%;
+    background-color:#ffff;
+    padding: 15% 15% 15% 15%;
+}
+.bin {
+    width:100%;
+    height:100%;
+    border-radius:50%;
+    background-color:#1355FF;
+    border: 1px solid #1355FF;
+    padding: 25% 25% 25% 25%;
+}
+.win {
+    width:100%;
+    height:100%;
+    border-radius:50%;
+    background-color:#ffff;
+    border: 1px solid #ffff;
+}
+
+
+.foottextcolor{
+    color:#1355FF;
+}
